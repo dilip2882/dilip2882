@@ -10,7 +10,7 @@
 
 ### Blogs 🌱 
 
-<a hrefe="https://dev.to/dilippatel">
+<a href="https://dev.to/dilippatel">
  <img src="blogs/devto.svg"> 
 </a> 
 <a href=""> 
