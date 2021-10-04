@@ -11,7 +11,7 @@
 ### Blogs 🌱 
 
 <a hrefe="https://dev.to/dilippatel">
- <img src="https://raw.githubusercontent.com/dilippatel007/dilippatel007/master/svg/blogs/devto.svg" alt="example badge" style="vertical-align:top margin:6px 4px"> 
+ <img src="blogs/devto.svg"> 
 </a> 
 <a href=""> 
  <img src="https://raw.githubusercontent.com/dilippatel007/dilippatel007/master/svg/blogs/wordpress.svg" alt="example badge" style="vertical-align:top margin:6px 4px"> 
