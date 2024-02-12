@@ -1,6 +1,6 @@
-a# 💫 About Me:
+#💫 About Me:
 👋 Hi, I'm Dilip! <br>
-💬 Ask me about Javascript & ReactJS<br>
+
 
 
 ## 🌐 Socials:
