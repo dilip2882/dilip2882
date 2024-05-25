@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm a Mobile Developer from India. 
- I like to build products which have a positive impact on people. I am keen to learn any and every new tech and build as many projects as I can.
-
+#### I'm a Mobile Developer from India. 
+ I like to build products which have a positive impact on people. I am keen to learn any and every new tech and build as many projects as I can.
 
 - 🔭 I’m currently working on making small fun apps and  improving my DSA skills.
 - 🌱 I’m currently learning android.
@@ -27,20 +26,16 @@ Here are some ideas to get you started:
 
 <hr>
 
-
 <h3>Where to find me</h3>
 <p><a href="https://github.com/dilip2882" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/dilip2882" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://instagram.com/dilipspatel2882" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href = "https://dilip2882.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
 
 <h3>My Latest Github Metrics</h3> 
-
 ![Metrics](https://metrics.lecoq.io/dilip2882?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 <br>
 <!-- <i>https://metrics.lecoq.io/insights/dilip2882</i> -->
 
-
 <h3>My Github Stats 📊</h3>
-
 <p align="left"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilip2882&" alt="dilip2882" />
 
 ![Dilip's Github Stats](https://github-readme-stats.vercel.app/api?username=dilip2882&count_private=true&show_icons=true&include_all_commits=true)
@@ -52,10 +47,11 @@ Here are some ideas to get you started:
 
 ![snake gif](https://github.com/dilip2882/dilip2882/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">
+<p align="left">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
+<hr>
 
 <!--
 ## 🌐 Socials:
