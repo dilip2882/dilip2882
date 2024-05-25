@@ -36,7 +36,14 @@ Here are some ideas to get you started:
 
 <h3>My Github Stats 📊</h3>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilip2882&" alt="dilip2882" /></p>
+
 [![Dilip's github stats](https://github-readme-stats.vercel.app/api?username=dilip2882&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilip2882" alt="dilip2882" /></a> </p>
+
+<p align="left">
+</p>
 
 ![](https://komarev.com/ghpvc/?username=dilip2882&color=green&style=flat)
 
