@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3>My Latest Github Metrics</h3> 
-![Metrics](https://metrics.lecoq.io/dilip2882?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/dilip2882)
 <br>
 <!-- <i>https://metrics.lecoq.io/insights/dilip2882</i> -->
 
