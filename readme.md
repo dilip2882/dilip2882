@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=dilip2882&color=green&style=flat)
 
+![snake gif](https://github.com/dilip2882/dilip2882/blob/output/github-contribution-grid-snake.gif)
 
 
 
