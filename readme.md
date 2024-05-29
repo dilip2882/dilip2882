@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 </p>
 
 <h3>My Latest Github Metrics</h3> 
-![Metrics](https://metrics.lecoq.io/dilip2882)
+![Metrics](https://metrics.lecoq.io/dilip2882?template=classic&base.header=0&gists=1&lines=1&config.timezone=Asia%2FCalcutta)
 <br>
-<!-- <i>https://metrics.lecoq.io/insights/dilip2882</i> -->
+<!-- <i>https://metrics.lecoq.io/embed?user=dilip2882</i> -->
 
 <h3>My Github Stats 📊</h3>
 <p align="left"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilip2882&" alt="dilip2882" />
