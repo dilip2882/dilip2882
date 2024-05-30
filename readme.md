@@ -5,7 +5,7 @@
 </p>
 
 <hr>  
-<h3 align=center>Hello!👋</h3
+<h1 align=center>Hello!👋</h1>
 
 <!--
 **Dilip2882/dilip2882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
