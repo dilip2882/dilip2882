@@ -5,13 +5,16 @@
 <img src="https://github-widgetbox.vercel.app/api/profile?username=dilip2882&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
 </p>
 
-#### I'm a Mobile Developer from India. 
+### I'm a Mobile Developer from India. 
+
 I like to build products which have a positive impact on people. I am keen to learn any and every new tech and build as many projects as I can.
-- 🔭 I’m currently working on making small fun apps and  improving my DSA skills.
-- 🌱 I’m currently learning android.
-- 🏋️‍ I’m looking to collaborate on **Android (Java, Kotlin)** , **Cross Platform (kmp)** or **Python** Projects and I am willing to learn any new framework or language.
-- 💬 Talk to me about **Apps, Web Projects, Anime, Manga and Non-Fiction Novels** 🌃
-- 📫 How to reach me: https://www.linkedin.com/in/dilip2882
+
+- 🔭 I’m currently working on making small fun apps and improving my DSA skills.
+- 🌱 I’m currently learning Android.
+- 🏋️‍ I’m looking to collaborate on **Android (Java, Kotlin)**, **Cross Platform (kmp)**, or **Python** Projects, and I am willing to learn any new framework or language.
+- 💬 Talk to me about **Apps, Web Projects, Anime, Manga, and Non-Fiction Novels** 🌃
+- 📫 How to reach me: LinkedIn
+
 <hr>
 
 <!--
