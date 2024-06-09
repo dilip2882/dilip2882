@@ -72,6 +72,9 @@ I like to build products which have a positive impact on people. I am keen to le
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilip2882&theme=2077"  display=block width=100% height=auto  alt="1" >
 </div>
 
+![](https://komarev.com/ghpvc/?username=dilip2882&color=green&style=flat)
+![snake gif](https://github.com/dilip2882/dilip2882/blob/output/github-contribution-grid-snake-dark.svg)
+
 <div align="center">
 
 ### Made By ❤️ Dilip © Copyright. All Rights Reserved @2024.
@@ -94,4 +97,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="right">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
   -->
