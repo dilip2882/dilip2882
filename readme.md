@@ -47,6 +47,8 @@ I like to build products which have a positive impact on people. I am keen to le
 | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Dilip GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dilip2882&theme=radical) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dilip2882&theme=radical)                                           |
 
+<!-- GitHub Stats Tropies -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilip2882&theme=radical" alt="dilip2882" /></a> </p>
 
 <!-- Random Quote Section Here -->
 ### ✍️ Random Dev Quote 
@@ -75,9 +77,11 @@ I like to build products which have a positive impact on people. I am keen to le
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilip2882&theme=2077"  display=block width=100% height=auto  alt="1" >
 </div>
 
+<!-- Snake -->
 ![](https://komarev.com/ghpvc/?username=dilip2882&color=green&style=flat)
 ![snake gif](https://github.com/dilip2882/dilip2882/blob/output/github-contribution-grid-snake-dark.svg)
 
+<!-- Copyright -->
 <div align="center">
 
 ### Made By ❤️ Dilip © Copyright. All Rights Reserved @2024.
