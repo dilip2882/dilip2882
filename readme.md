@@ -6,7 +6,7 @@
 </p>
 
 #### I'm a Mobile Developer from India. 
- I like to build products which have a positive impact on people. I am keen to learn any and every new tech and build as many projects as I can.
+I like to build products which have a positive impact on people. I am keen to learn any and every new tech and build as many projects as I can.
 - 🔭 I’m currently working on making small fun apps and  improving my DSA skills.
 - 🌱 I’m currently learning android.
 - 🏋️‍ I’m looking to collaborate on **Android (Java, Kotlin)** , **Cross Platform (kmp)** or **Python** Projects and I am willing to learn any new framework or language.
