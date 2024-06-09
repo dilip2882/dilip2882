@@ -13,7 +13,7 @@ I like to build products which have a positive impact on people. I am keen to le
 - 🌱 I’m currently learning Android.
 - 🏋️‍ I’m looking to collaborate on **Android (Java, Kotlin)**, **Cross Platform (kmp)**, or **Python** Projects, and I am willing to learn any new framework or language.
 - 💬 Talk to me about **Apps, Web Projects, Anime, Manga, and Non-Fiction Novels** 🌃
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dilip2882)
 
 <hr>
 
