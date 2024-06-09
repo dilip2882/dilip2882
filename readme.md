@@ -34,48 +34,53 @@ I like to build products which have a positive impact on people. I am keen to le
 
 <hr>
 
-<h3>Where to find me</h3>
+### Where to find me
 <p><a href="https://github.com/dilip2882" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/dilip2882" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://instagram.com/dilipspatel2882" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href = "https://dilip2882.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
 
-<h3>My Latest Github Metrics</h3> 
+### My Latest Github Metrics
 ![Metrics](https://metrics.lecoq.io/dilip2882?template=classic&base.header=0&gists=1&lines=1&config.timezone=Asia%2FCalcutta)
 <br>
 <!-- <i>https://metrics.lecoq.io/embed?user=dilip2882</i> -->
 
-<h3>My Github Stats 📊</h3>
-<p align="left"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilip2882&" alt="dilip2882" />
-
-![Dilip's Github Stats](https://github-readme-stats.vercel.app/api?username=dilip2882&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilip2882&hide=TeX&layout=compact)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilip2882" alt="dilip2882" /></a> </p>
-
-![](https://komarev.com/ghpvc/?username=dilip2882&color=green&style=flat)
-
-![snake gif](https://github.com/dilip2882/dilip2882/blob/output/github-contribution-grid-snake.svg)
-
+<!-- GitHub Stats Section Here -->
+### 📊 GitHub Stats
+<!-- color=nord_dark -->
 <p align="left">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://github-widgetbox.vercel.app/api/profile?username=dilip2882&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
 </p>
 
-<hr>
+| ![Dilip Github Stats](https://github-readme-stats.vercel.app/api?username=dilip2882&show_icons=true&theme=radical)              | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilip2882&langs_count=8&theme=radical&layout=compact)          |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Dilip GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dilip2882&theme=radical) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dilip2882&theme=radical)                                           |
 
-<!--
-## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/)
-  <!--
-For future use
-<a href="https://www.instagram.com/hemant.gz/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://leetcode.com//">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
+<!-- Random Quote Section Here -->
+### ✍️ Random Dev Quote 
 
-## Languages and tools ⚙️
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Java](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
--->
+<!-- GitHub Contribution Section Here -->
+### 📈 GitHub Contribution Graph 
+
+[![Dilip github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dilip2882&bg_color=d4d1ff&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true)](https://github.com/dilip2882/github-readme-activity-graph)
+
+<!-- Summary Section Here -->
+
+
+### 💳 Github Profile Summary Card 
+
+<!-- <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=dilip2882&style=flat-square&color=22CCB2">
+
+<br> -->
+
+<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilip2882&theme=2077"  display=block width=100% height=auto  alt="1" >
+</div>
+
+<div align="center">
+
+### Made By ❤️ D © Copyright. All Rights Reserved @2024.
+
+</div>
