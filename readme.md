@@ -1,28 +1,17 @@
+<!-- Intro -->
+
+<!-- color=nord_dark -->
+<p align="left">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=dilip2882&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+</p>
+
+<!--
+# Intro
 <p align="center">
   <a href="#">
     <img src="svg/personal/dilip2882_intro.svg" alt="my github bintro!" style="vertical-align:top; margin:6px 4px">
   </a> 
 </p>
-
-<hr>  
-<h1 align=center>Hello!👋</h1>
-
-<!--
-**Dilip2882/dilip2882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
-
-#### I'm a Mobile Developer from India. 
 
 I like to build products which have a positive impact on people. I am keen to learn any and every new tech and build as many projects as I can.
 
@@ -35,20 +24,12 @@ I like to build products which have a positive impact on people. I am keen to le
 <hr>
 
 ### Where to find me
+<div background="blue">
 <p><a href="https://github.com/dilip2882" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/dilip2882" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://instagram.com/dilipspatel2882" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href = "https://dilip2882.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
-
-### My Latest Github Metrics
-![Metrics](https://metrics.lecoq.io/dilip2882?template=classic&base.header=0&gists=1&lines=1&config.timezone=Asia%2FCalcutta)
-<br>
-<!-- <i>https://metrics.lecoq.io/embed?user=dilip2882</i> -->
-
+</div>
 <!-- GitHub Stats Section Here -->
 ### 📊 GitHub Stats
-<!-- color=nord_dark -->
-<p align="left">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=dilip2882&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
-</p>
 
 | ![Dilip Github Stats](https://github-readme-stats.vercel.app/api?username=dilip2882&show_icons=true&theme=radical)              | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilip2882&langs_count=8&theme=radical&layout=compact)          |
 | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -84,3 +65,21 @@ I like to build products which have a positive impact on people. I am keen to le
 ### Made By ❤️ D © Copyright. All Rights Reserved @2024.
 
 </div>
+
+
+
+
+<!--
+**Dilip2882/dilip2882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+  -->
