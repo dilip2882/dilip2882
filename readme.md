@@ -89,8 +89,6 @@ I like to build products which have a positive impact on people. I am keen to le
 </div>
 
 
-
-
 <!--
 **Dilip2882/dilip2882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -109,4 +107,7 @@ Here are some ideas to get you started:  [![GitHub stars](https://img.shields.io
 <p align="right">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+[![Dilip's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dilip2882)](https://github.com/anuraghazra/github-readme-stats)
+
   -->
