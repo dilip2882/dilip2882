@@ -66,7 +66,6 @@ I like to build products which have a positive impact on people. I am keen to le
 
 <!-- Summary Section Here -->
 
-
 ### 💳 Github Profile Summary Card 
 
 <!-- <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=dilip2882&style=flat-square&color=22CCB2">
