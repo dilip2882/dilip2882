@@ -45,7 +45,12 @@ I like to build products which have a positive impact on people. I am keen to le
 
 | ![Dilip Github Stats](https://github-readme-stats.vercel.app/api?username=dilip2882&show_icons=true&theme=radical)              | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilip2882&langs_count=8&theme=radical&layout=compact)          |
 | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Dilip GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dilip2882&theme=radical) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dilip2882&theme=radical)                                           |
+| ![Dilip GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dilip2882&theme=radical) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dilip2882&theme=radical)  |
+
+<div align="center">
+  <img alt="Dilip's GitHub | Stats" src="https://stats.quine.sh/dilip2882/github?theme=dark" />
+  <img alt="Dilip's GitHub | Dependencies" src="https://stats.quine.sh/dilip2882/dependencies?theme=dark" />
+</div>
 
 <!-- GitHub Stats Tropies -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilip2882&theme=radical" alt="dilip2882" /></a> </p>
