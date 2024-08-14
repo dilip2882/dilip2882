@@ -2,7 +2,7 @@
 
 <!-- color=nord_dark -->
 <p align="left">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=dilip2882&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=dilip2882&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
 </p>
 
 ### I'm a Mobile Developer from India. 
