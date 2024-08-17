@@ -101,7 +101,6 @@ I like to build products which have a positive impact on people. I am keen to le
 
 Here are some ideas to get you started:  [![GitHub stars](https://img.shields.io/github/stars/dilip2882/dilip2882?style=social)](https://github.com/dilip2882/dilip2882)  [![GitHub forks](https://img.shields.io/github/forks/dilip2882/dilip2882?style=social)](https://github.com/dilip2882/dilip2882)
 
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -117,4 +116,4 @@ Here are some ideas to get you started:  [![GitHub stars](https://img.shields.io
 
 [![Dilip's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dilip2882)](https://github.com/anuraghazra/github-readme-stats)
 
-  -->
+-->
